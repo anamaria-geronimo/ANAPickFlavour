@@ -1,0 +1,6 @@
+module Pods_ANAPickFlavour {
+  umbrella header "Pods-ANAPickFlavour-umbrella.h"
+
+  export *
+  module * { export * }
+}
